@@ -1,0 +1,7 @@
+{
+  "name": "PatterWatch - Relationship Pattern Intelligence System",
+  "description": "A consensual relationship trust enforcement system that uses behavioral pattern analysis to detect anomalies and ensure mutual transparency.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
