@@ -3,3 +3,5 @@
 It does **not** function as spyware.  
 It does **not** secretly intercept private communications.  
 It operates only with **explicit, mutual consent**.
+
+**ON GOING**
